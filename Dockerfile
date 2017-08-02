@@ -1,3 +1,3 @@
 FROM index-staging.alauda.cn/testorg001/volume-test:v1
-EXPOSE 802
+EXPOSE 803
 COPY . .
