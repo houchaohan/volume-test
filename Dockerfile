@@ -1,2 +1,2 @@
-FROM index-staging.alauda.cn/testorg001/volume-test:v1
+FROM index-staging.alauda.cn/testorg001/volumetest:latest
 EXPOSE 80
